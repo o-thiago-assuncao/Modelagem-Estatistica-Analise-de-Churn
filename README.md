@@ -1,19 +1,15 @@
 📊 Modelagem Estatística de Churn
 --Fundamentos de Python aplicado a Data Science e IA
+
 📘 1. Introdução
 
 O objetivo deste projeto é conduzir uma análise estatística completa da taxa de churn de uma empresa fictícia de telecomunicações utilizando:
 
 Python
-
 Pandas
-
 Seaborn
-
 Plotly
-
 NumPy
-
 Statsmodels (Regressão Logística)
 
 O foco é entender quais fatores influenciam o cancelamento de clientes (churn) e gerar insights acionáveis para o negócio.
@@ -55,13 +51,9 @@ Regressão Logística (Statsmodels) — ideal para variável dependente binária
 Um dataset de 2000 clientes foi criado artificialmente com variáveis como:
 
 Fidelidade_Meses
-
 Tipo_Contrato
-
 Servico_Internet
-
 Fatura_Mensal
-
 Churn (0 = Não, 1 = Sim)
 
 Os dados simulam cenários reais de comportamento de clientes.
